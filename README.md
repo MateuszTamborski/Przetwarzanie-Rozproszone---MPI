@@ -1,1 +1,5 @@
-# Przetwarzanie-Rozproszone---MPI
+# Przetwarzanie-Rozproszone-MPI
+
+Miasteczka Pciupciumk opanowała plaga chomików, zakradajacych sie noca do domów i paskudzacych ludziom w kapcie, oraz obgryzajacym kable i paznokcie u stóp spiacych. Dlatego tez zdesperowani mieszkancy postanowili zwrócic sie do skrzatów. Małe, dzielne skrzaty znane sa z nienawisci do chomików i z radoscia przyjeły oferte. Od tej pory skrzaty morduja chomiki, a mieszkancy spokojnie moga zajac sie czytaniem przemyslen Gandhiego o pacyfizmie i biernym oporze. Procesy modeluja skrzaty oraz osobno burmistrza. Burmistrz generuje zlecenia, rozsyłajac je miedzy skrzaty (i na tym jego rola sie konczy) - równoczesnie po kilka naraz. Nastepna partie zlecen generuje po zakonczeniu wszytkich poprzednich. Kazde zlecenia zawiera parametr: ilosc chomików do ubicia. Skrzaty konkuruja o dane zlecenie. Po jego zdobyciu konkuruja o sprzet do zabijania: jedna z A agrafek, odpowiednia liczbe porcji do zatrucia agrafki (tyle, ile wynika z liczby chomików w zleceniu). Zlecenia sa rozróznialne, agrafki i trucizny nie.
+
+Program modeluje powyżej przedstawiony problem.
